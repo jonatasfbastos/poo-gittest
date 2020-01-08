@@ -18,6 +18,7 @@ public class GitTest {
         // TODO code application logic here
         
         System.out.println("Filipe sai do celular");
+        System.out.println("Filipe says: saio nada POO que lute para eu aprender");
     }
     
 }
